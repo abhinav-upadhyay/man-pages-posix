@@ -1,0 +1,12 @@
+Begin3
+Title:          Section 0p, 1p, and 3p man pages (the POSIX man-pages) for Linux
+Version:        2003-a
+Entered-date:   2008-06-12
+Description:    POSIX manual pages
+Keywords:       man pages
+Author:         The Open Group
+Maintained-by:  Michael Kerrisk <mtk.manpages@gmail.com>
+Primary-site:   ftp://ftp.kernel.org/pub/linux/docs/man-pages
+                1417k man-pages-posix-2003-a.tar.gz
+Copying-policy: See the file POSIX-COPYRIGHT;
+End

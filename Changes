@@ -1,0 +1,12 @@
+==================== Changes in man-pages-posix-2003-a ====================
+
+Released: 2008-06-12
+
+Global changes
+--------------
+
+This package was created by splitting out the POSIX pages
+(sections 0p, 1p, 3p) from the man-pages package.  (man-pages-2.80
+was the last man-pages release to include the POSIX pages.)
+These are pages from POSIX.1-2001, Technical Corrigendum 1.
+Since TC1 appeared in 2003, it is also known as POSIX.1-2003.
